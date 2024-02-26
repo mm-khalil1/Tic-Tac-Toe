@@ -31,5 +31,3 @@ Created by Mahmoud Khalil on 22-02-2024.
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-# Tic-Tac-Toe
